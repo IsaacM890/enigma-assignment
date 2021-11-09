@@ -1,0 +1,34 @@
+{
+  "XRP": {
+    "XRPAUD": { "open": "1.55", "change": "-0.57%", "worth": "121.8K" },
+    "XRPBTC": { "open": "0.00002354", "change": "+0.43%", "worth": "824.8K" },
+    "XRPCAD": { "open": "1.43", "change": "-0.35%", "worth": "222.3K" },
+    "XRPETH": { "open": "0.0003566", "change": "+0.39%", "worth": "230.8" },
+    "XRPEUR": { "open": "0.9560", "change": "-0.35%", "worth": "3.450M" },
+    "XRPGBP": { "open": "0.8176", "change": "0.65%", "worth": "976.1K" },
+    "XRPJPY": { "open": "124.02", "change": "-0.76%", "worth": "26.32K" },
+    "XRPUSD": { "open": "1.13", "change": "-0.36%", "worth": "4.333M" },
+    "XRPUSDT": { "open": "1.13", "change": "-0.35%", "worth": "825.K" }
+  },
+  "BCH": {
+    "BCHAUD": { "open": "929.99", "change": "-0.05%", "worth": "7.58" },
+    "BCHBTC": { "open": "0.01347", "change": "-3.37%", "worth": "155.61" },
+    "BCHCAD": { "open": "0.2040", "change": "-3.32%", "worth": "64.78" },
+    "BCHETH": { "open": "548.56", "change": "-4.06%", "worth": "1.227K" },
+    "BCHEUR": { "open": "446.70", "change": "-4.82%", "worth": "9.65" },
+    "BCHGBP": { "open": "70759.00", "change": "-5.00%", "worth": "20.61" },
+    "BCHJPY": { "open": "646.66", "change": "-4.00%", "worth": "2.216K" },
+    "BCHUSD": { "open": "645.70", "change": "-4.33%", "worth": "150.12" }
+  },
+  "LTC": {
+    "LTCAUD": { "open": "236.88", "change": "-3.63%", "worth": "61.66" },
+    "LTCBTC": { "open": "0.003587", "change": "-2.45%", "worth": "2.587K" },
+    "LTCCAD": { "open": "0.05441", "change": "-2.42%", "worth": "590.38" },
+    "LTCETH": { "open": "145.99", "change": "-3.00%", "worth": "9.364K" },
+    "LTCEUR": { "open": "124.91", "change": "-3.05%", "worth": "261.35" },
+    "LTCGBP": { "open": "124.91", "change": "-3.05%", "worth": "261.35" },
+    "LTCJPY": { "open": "0.003587", "change": "-2.45%", "worth": "2.587K" },
+    "LTCUSD": { "open": "124.91", "change": "-3.05%", "worth": "261.35" },
+    "LTCUSDT": { "open": "0.05441", "change": "-2.42%", "worth": "590.38" }
+  }
+}
